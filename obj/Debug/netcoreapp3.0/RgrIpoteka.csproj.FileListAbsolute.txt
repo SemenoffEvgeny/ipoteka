@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\RgrIpoteka\bin\Debug\netcoreapp3.0\RgrIpoteka.exe
+C:\Users\User\source\repos\RgrIpoteka\bin\Debug\netcoreapp3.0\RgrIpoteka.deps.json
+C:\Users\User\source\repos\RgrIpoteka\bin\Debug\netcoreapp3.0\RgrIpoteka.runtimeconfig.json
+C:\Users\User\source\repos\RgrIpoteka\bin\Debug\netcoreapp3.0\RgrIpoteka.runtimeconfig.dev.json
+C:\Users\User\source\repos\RgrIpoteka\bin\Debug\netcoreapp3.0\RgrIpoteka.dll
+C:\Users\User\source\repos\RgrIpoteka\bin\Debug\netcoreapp3.0\RgrIpoteka.pdb
+C:\Users\User\source\repos\RgrIpoteka\obj\Debug\netcoreapp3.0\RgrIpoteka.csprojAssemblyReference.cache
+C:\Users\User\source\repos\RgrIpoteka\obj\Debug\netcoreapp3.0\RgrIpoteka.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RgrIpoteka\obj\Debug\netcoreapp3.0\RgrIpoteka.AssemblyInfo.cs
+C:\Users\User\source\repos\RgrIpoteka\obj\Debug\netcoreapp3.0\RgrIpoteka.dll
+C:\Users\User\source\repos\RgrIpoteka\obj\Debug\netcoreapp3.0\RgrIpoteka.pdb
